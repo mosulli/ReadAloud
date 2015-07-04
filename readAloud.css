@@ -1,0 +1,8 @@
+.readAloud {
+	height: 1px;
+  left: -10000px;
+  position: absolute;
+  width: 1px;
+  margin: 0;
+  padding: 0;
+}
